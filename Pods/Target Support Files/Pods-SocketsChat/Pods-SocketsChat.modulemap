@@ -1,0 +1,6 @@
+framework module Pods_SocketsChat {
+  umbrella header "Pods-SocketsChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
